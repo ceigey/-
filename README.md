@@ -42,7 +42,7 @@ The language should possess something of a "dumb" dictionary for a given languag
 ## Technologies
 ### Overview
 ### UI
-* JavaScript -> Elm for reactive functional UI?
+* JavaScript -> Elm for reactive functional UI? ClojureScript for bracketheaven?
 ### Pseudowiki
 * Maybe some sort of Markdown system for writing detailed lessons
 ### Interactive Lesson Definitions
