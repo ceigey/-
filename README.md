@@ -14,6 +14,7 @@ Table of Contents
   * [Pseudowiki](#pseudowiki)
   * [Interactive Lesson Definitions](#interactive-lesson-definitions)
   * [Misc](#misc)
+* [License](#license)
 
 ## Introduction
 ### Objective
@@ -40,3 +41,6 @@ Intended to be a front-end heavy app.
 * Possibly JSON?
 ### Misc
 * Maybe Pug for HTML Templating because it's **[````Æ S Þ Ē T Y K````]**. But there should still be a clear separation of logic and templating, cf. [this link](http://www.workingsoftware.com.au/page/Your_templating_engine_sucks_and_everything_you_have_ever_written_is_spaghetti_code_yes_you).
+
+## License
+*To be updated*
