@@ -3,16 +3,16 @@
 
 Table of Contents
 =================
-* [Introduction](#Introduction)
- * [Objective](#Objective)
- * [Background](#Background)
- * [Alternatives](#Alternatives)
-* [Architecture](#Architecture)
-* [Technologies](#Technologies)
- * [Overview](#Overview)
- * [UI](#UI)
- * [Pseudowiki](#Pseudowiki)
- * [Interactive Lesson Definitions](#Interactive Lesson Definitions)
+* [Introduction](#introduction)
+ * [Objective](#objective)
+ * [Background](#background)
+ * [Alternatives](#alternatives)
+* [Architecture](#architecture)
+* [Technologies](#technologies)
+ * [Overview](#overview)
+ * [UI](#ui)
+ * [Pseudowiki](#pseudowiki)
+ * [Interactive Lesson Definitions](#interactive-lesson-definitions)
 
 ## Introduction
 ### Objective
