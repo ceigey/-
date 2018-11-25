@@ -3,7 +3,6 @@ From Greek λαλεῖν, the infinitive of "to talk, chat".
 A language learning and practice app system.
 
 ## Table of Contents
-----
 * [Introduction](#introduction)
   * [Background](#background)
   * [Objective](#objective)
