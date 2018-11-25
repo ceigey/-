@@ -1,5 +1,5 @@
 # Lalein
-From Greek λαλεῖν, the infinitive of "to talk, chat"
+From Greek λαλεῖν, the infinitive of "to talk, chat".
 A language learning and practice app system.
 
 ## Table of Contents
