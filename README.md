@@ -9,11 +9,6 @@ A language learning and practice app system.
   * [Alternatives](#alternatives)
 * [Architecture](#architecture)
 * [Technologies](#technologies)
-  * [Overview](#overview)
-  * [UI](#ui)
-  * [Pseudowiki](#pseudowiki)
-  * [Interactive Lesson Definitions](#interactive-lesson-definitions)
-  * [Misc](#misc)
 * [License](#license)
 
 ## Introduction
